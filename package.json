@@ -13,7 +13,6 @@
     "build-storybook": "storybook build"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.2",
     "@chromatic-com/storybook": "^1.9.0",
     "@storybook/addon-essentials": "8.3.0-alpha.3",
     "@storybook/addon-interactions": "8.3.0-alpha.3",
